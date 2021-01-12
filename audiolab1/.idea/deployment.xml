@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="huyunfan@172.20.107.15:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="huyunfan@172.20.107.15:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_463" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="huyunfan@172.20.107.15:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/huyunfan/audiolab" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="myserver">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/audiolab" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
